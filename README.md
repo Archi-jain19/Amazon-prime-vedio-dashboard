@@ -39,5 +39,5 @@ The dashboard provides insights into **1,000+ movie and TV show titles** across 
 
 ## 📸 Dashboard Preview
 
-![<img width="1282" height="712" alt="Amazon Prime Dashboard " src="https://github.com/user-attachments/assets/1f23ecd5-1dc2-49ba-897e-fb1c633a9365" />].
+<img width="1282" height="712" alt="Amazon Prime Dashboard " src="https://github.com/user-attachments/assets/1f23ecd5-1dc2-49ba-897e-fb1c633a9365" />
 
